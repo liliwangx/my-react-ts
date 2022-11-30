@@ -9,7 +9,8 @@ import "./index.css";
 // import App from "./03-function.tsx/01-state";
 // import App from "./03-function.tsx/02-todolist";
 // import App from "./03-function.tsx/03-props";
-import App from "./03-function.tsx/04-抽屉";
+// import App from "./03-function.tsx/04-抽屉";
+import App from "./04-router/App";
 
 import reportWebVitals from "./reportWebVitals";
 
